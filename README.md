@@ -18,8 +18,6 @@
 
 - 🧨 I have a background in **Cybersecurity**: Splunk, IDS, Penetration Testing, Risk Assessment and much more.
 
-- 📡 I aim AI development for **industrial military-complex**, **pharma**, **healthcare** and **entertainment** fields.
-
 - 📝 I am seeking new opportunities and challenges in the field of AI development.
 
 - 📧 Contact me: cozer@strategol.info
